@@ -1,0 +1,6 @@
+NAME           SUBNET_MODE  BGP_ROUTING_MODE  IPV4_RANGE  GATEWAY_IPV4
+fournine-test  CUSTOM       GLOBAL
+NAME              REGION       NETWORK        RANGE         STACK_TYPE  IPV6_ACCESS_TYPE  INTERNAL_IPV6_PREFIX  EXTERNAL_IPV6_PREFIX
+fournine-subnet1  asia-south2  fournine-test  10.10.0.0/24  IPV4_ONLY
+NAME              REGION       NETWORK        RANGE         STACK_TYPE  IPV6_ACCESS_TYPE  INTERNAL_IPV6_PREFIX  EXTERNAL_IPV6_PREFIX
+fournine-subnet2  asia-south1  fournine-test  10.14.0.0/24  IPV4_ONLY
